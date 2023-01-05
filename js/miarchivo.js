@@ -92,7 +92,7 @@ function carroDeCompras() {
 
   if (consulta === "si" /*  || consulta === "SI" */) {
     alert(
-      `¡¡FELICIDADES!! compraste ${todosLosCursos}, preparate para empezar a aprender y disfrutar`
+      `¡¡FELICIDADES!! compraste ${todosLosCursos} preparate para empezar a aprender y disfrutar`
     );
     todosLosCursos = "";
     precioCursos = 0;
